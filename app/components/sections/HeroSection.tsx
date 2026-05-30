@@ -191,34 +191,34 @@ export default function HeroSection() {
 
             {/* Floating badges */}
             {/* Node.js */}
-            <motion.div
+            {/* <motion.div
               animate={{ y: [0, -10, 0] }}
               transition={{ repeat: Infinity, duration: 3 }}
               className="absolute -left-28 top-16 flex items-center gap-2 rounded-full bg-white/10 backdrop-blur-lg border border-white/20 px-4 py-2 text-white shadow-xl"
             >
               <span className="text-yellow-400">⚡</span>
               <span className="font-medium">Node.js Expert</span>
-            </motion.div>
+            </motion.div> */}
 
             {/* NestJS */}
-            <motion.div
+            {/* <motion.div
               animate={{ y: [0, -10, 0] }}
               transition={{ repeat: Infinity, duration: 3.5, delay: 0.5 }}
               className="absolute -right-28 top-24 flex items-center gap-2 rounded-full bg-white/10 backdrop-blur-lg border border-white/20 px-4 py-2 text-white shadow-xl"
             >
               <span>🚀</span>
               <span className="font-medium">NestJS Pro</span>
-            </motion.div>
+            </motion.div> */}
 
             {/* Database */}
-            <motion.div
+            {/* <motion.div
               animate={{ y: [0, -10, 0] }}
               transition={{ repeat: Infinity, duration: 4, delay: 1 }}
               className="absolute -left-24 bottom-20 flex items-center gap-2 rounded-full bg-white/10 backdrop-blur-lg border border-white/20 px-4 py-2 text-white shadow-xl"
             >
               <span>💾</span>
               <span className="font-medium">MongoDB Expert</span>
-            </motion.div>F
+            </motion.div> */}
           </div>
         </motion.div>
       </div>
